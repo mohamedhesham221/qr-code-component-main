@@ -22,7 +22,7 @@ body {
     justify-items: center;
 }
 .container {
-    width: 260px;
+    width: 270px;
     min-height: 200px;
     background-color: var(--white);
     margin: 20px;
